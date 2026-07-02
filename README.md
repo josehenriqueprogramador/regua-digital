@@ -6,7 +6,7 @@ Projeto de uma régua digital de alta precisão utilizando sensor ultrassônico 
 - `regua-digital.ino`: Lógica principal e loop de execução.
 - `display.cpp / .h`: Módulo responsável pela renderização visual.
 - `config.h`: Definição centralizada de pinos e parâmetros de hardware.
-- `410746.png`: Diagrama de conexão do circuito.
+- `diagrama.jpg`: Diagrama de conexão do circuito.
 
 ## Como utilizar
 1. Conecte o sensor conforme o diagrama `410746.png`.
