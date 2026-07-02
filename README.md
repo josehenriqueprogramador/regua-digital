@@ -9,7 +9,7 @@ Projeto de uma régua digital de alta precisão utilizando sensor ultrassônico 
 - `diagrama.jpg`: Diagrama de conexão do circuito.
 
 ## Como utilizar
-1. Conecte o sensor conforme o diagrama `410746.png`.
+1. Conecte o sensor conforme o diagrama `diagrama.jpg`.
 2. Certifique-se de ter as bibliotecas `U8glib` e `Ultrasonic` instaladas no Arduino IDE.
 3. Compile e carregue o código `regua-digital.ino` para sua placa.
 
